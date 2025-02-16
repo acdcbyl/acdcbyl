@@ -4,12 +4,16 @@
 ## About Me
 
 I am a linux user and I am still learning. I am learning the following languages.
-
-- ❤️ rust
-- ❤️ dart
-- ❤️ typescript
+- 🔭 I’m currently working on linux/sql/shell/python
+- 🌱 I’m currently learning rust/ts/dart
+- 🤔 I’m looking for help with rust/dart/flutter
+- ⚡ Fun fact:❤️ 😺
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdcbyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **acdcbyl/acdcbyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
