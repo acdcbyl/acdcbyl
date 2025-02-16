@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi%2CThere!I'm+Aiser%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 
-## About Me
+## 🎯About Me
 
 I am a linux user and I am still learning. I am learning the following languages.
 - 🔭 I’m currently working on linux/sql/shell/python
@@ -9,7 +9,7 @@ I am a linux user and I am still learning. I am learning the following languages
 - 🤔 I’m looking for help with rust/dart/flutter
 - ⚡ Fun fact:I ❤️ 😺s
 
-## My Latest Blogs
+## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Dart语法简记](https://acdcbyl.github.io/posts/dart%E8%AF%AD%E6%B3%95%E7%AE%80%E8%AE%B0/)
 - [为arch Linux开启高采样率](https://acdcbyl.github.io/posts/%E4%B8%BAarch-linux%E5%BC%80%E5%90%AF%E9%AB%98%E9%87%87%E6%A0%B7%E7%8E%87/)
