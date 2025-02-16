@@ -4,7 +4,7 @@
 ## 🎯About Me
 
 I am a linux user and I am still learning. I am learning the following languages.
-- 🔭 I’m currently working on `linux`/`sql`/`shell`
+- 🔭 I’m currently working on `linux`/`sql`/`shell`/`lua`
 - 🌱 I’m currently learning `rust`/`ts`/`dart`
 - 🤔 I’m looking for help with `rust`/`dart`/`flutter`
 - ⚡ Fun fact:I ❤️ 😺s
