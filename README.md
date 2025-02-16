@@ -9,8 +9,6 @@ I am a linux user and I am still learning. I am learning the following languages
 - 🤔 I’m looking for help with rust/dart/flutter
 - ⚡ Fun fact:I ❤️ 😺s
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdcbyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Dart语法简记](https://acdcbyl.github.io/posts/dart%E8%AF%AD%E6%B3%95%E7%AE%80%E8%AE%B0/)
@@ -19,6 +17,8 @@ I am a linux user and I am still learning. I am learning the following languages
 - [Neovim常用操作](https://acdcbyl.github.io/posts/neovim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/)
 - [Linux好用的工具](https://acdcbyl.github.io/posts/linux%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdcbyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **acdcbyl/acdcbyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
