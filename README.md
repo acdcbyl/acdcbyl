@@ -19,6 +19,7 @@ I am a linux user and I am still learning. I am learning the following languages
 - [Linux好用的工具](https://acdcbyl.github.io/posts/linux%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/)
 <!-- BLOG-POST-LIST:END -->
 
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdcbyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
