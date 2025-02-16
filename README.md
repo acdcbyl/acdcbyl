@@ -8,7 +8,8 @@ I am a linux user and I am still learning. I am learning the following languages
 - 🌱 I’m currently learning `rust`/`ts`/`dart`
 - 🤔 I’m looking for help with `rust`/`dart`/`flutter`
 - ⚡ Fun fact:I ❤️ 😺s
-- 📫 How to reach me: [@acdcbyl](https://github/acdcbyl) ![visitors](https://visitor-badge.glitch.me/badge?page_id=acdcbyl&left_color=green&right_color=red)
+- 📫 How to reach me: [@acdcbyl](https://github/acdcbyl)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=acdcbyl&left_color=green&right_color=red)
 
 ## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
