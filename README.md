@@ -12,11 +12,11 @@ I am a linux user and I am still learning.
 
 ## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [计算机网络基础](https://acdcbyl.github.io/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/)
 - [Dart语法简记](https://acdcbyl.github.io/posts/dart%E8%AF%AD%E6%B3%95%E7%AE%80%E8%AE%B0/)
 - [为arch Linux开启高采样率](https://acdcbyl.github.io/posts/%E4%B8%BAarch-linux%E5%BC%80%E5%90%AF%E9%AB%98%E9%87%87%E6%A0%B7%E7%8E%87/)
 - [Rust新特性学习笔记&lpar;还有忘了的东西嘻嘻&rpar;](https://acdcbyl.github.io/posts/rust%E6%96%B0%E7%89%B9%E6%80%A7%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [Neovim常用操作](https://acdcbyl.github.io/posts/neovim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/)
-- [Linux好用的工具](https://acdcbyl.github.io/posts/linux%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
